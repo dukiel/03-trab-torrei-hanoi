@@ -1,4 +1,4 @@
-# 02-trab-lista-itineraria
+# 03-trab-torrei-hanoi
 
 ## Descricao
 Soluçao do quebra-cabeça matemático Torre de Hanói utilizando a estrutura
